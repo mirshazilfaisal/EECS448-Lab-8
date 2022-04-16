@@ -8,7 +8,7 @@ function validate()
         alert("Password must have atleast 8 charachters");
     }
 
-    if(pass1.value != pass2.value)
+    else if(pass1.value != pass2.value)
     {
         alert("Passwords dont match");
     }
