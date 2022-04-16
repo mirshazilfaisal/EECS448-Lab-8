@@ -1,0 +1,27 @@
+
+*{
+    background-color: #abdbe3;
+}
+
+#bio{
+    font-size: 14px;
+    font-family: Aria;
+}
+
+.link{
+    font-style: italic;
+    font-size: 14px;
+    color:#606c38;
+}
+
+a:hover{
+    font-size: 15px;
+}
+
+#image{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    border-radius: 8px;
+}
